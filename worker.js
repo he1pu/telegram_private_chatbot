@@ -1,4 +1,4 @@
-// Cloudflare Worker：Telegram 双向机器人 (纯本地极速版 v5.3)
+// Cloudflare Worker：Telegram 双向机器人 v5.3
 
 // --- 配置常量 ---
 const CONFIG = {
